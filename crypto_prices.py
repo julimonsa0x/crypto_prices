@@ -84,6 +84,8 @@ def get_crypto_price(crypto: str, currency: str) -> tuple:
         except: 
             richPrint("[red]==! There was an error when calling API !")
             sleep(1.5)
+            richPrint("[red]==! may be temp. down or coin doesn't exists !")
+            sleep(1.5)
             richPrint("[red]==! try again in a few minutes or create an issue !")
             sleep(1.5)
             exit()
