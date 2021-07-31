@@ -3,7 +3,7 @@ Hello there, this time i tried to make a useful script combining `rich` library 
 hope you like this little program. I learned a bit of sqlite3 and few things. Still more to learn...
 
 ## Requirements
-You can try the script at [replit](https://replit.com/@julimonsa0x/cryptoprices#crypto_prices.py)
+You can try the code at (with some replit bugs)[replit](https://replit.com/@julimonsa0x/cryptoprices#crypto_prices.py)
 or clone code and do:
 ``` bash
 pip install -r requirements.txt
